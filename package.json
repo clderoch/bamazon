@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An interactive storefront that runs in the console using node.  This storefront in no way resembles Amazon, except in name.",
+  "main": "BamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^1.2.3",
+    "mysql": "^2.16.0",
+    "nodejs": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clderoch/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clderoch/bamazon/issues"
+  },
+  "homepage": "https://github.com/clderoch/bamazon#readme"
+}
